@@ -1,7 +1,7 @@
 # Networking-and-Servers
 
 # Task 1
-Deploy a website on localhost using either apache2 or Nginx. Create a DNS name for this website as ‘awesomeweb’. 
+#Deploy a website on localhost using either apache2 or Nginx. Create a DNS name for this website as ‘awesomeweb’. 
 
 Step 1: Install Nginx
 sudo apt update
