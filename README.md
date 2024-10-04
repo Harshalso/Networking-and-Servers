@@ -27,4 +27,10 @@ Step 5: Configure DNS Name on Localhost
 sudo nano /etc/hosts
 map awesomeweb to IP address
 
-
+# Task 2
+1. Create the Python script in any directory and run it.
+2. Set up subdomains using Nginx by creating separate server blocks.
+3. Modify /etc/hosts to map subdomains to localhost (127.0.0.1).
+4. Test subdomain access in the browser.
+5. Run the Python script to automatically check the subdomain statuses and display 
+   them in a table.
